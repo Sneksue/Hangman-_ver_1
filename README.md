@@ -1,2 +1,4 @@
 # Hangman-_ver_1
-First version of hangman I created.
+Both files are needed for the game to function. 
+
+It's a simple hangman game.
